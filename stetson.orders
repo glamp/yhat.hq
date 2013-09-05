@@ -1,2 +1,0 @@
-AUTODEPLOY https://github.com/yhat/stetson.git
-RUN stetson /stetson /stetson/src/predictors/user_models/python/EchoModel/bundle.json
