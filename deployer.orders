@@ -1,2 +1,3 @@
-AUTODEPLOY https://github.com/yhat/deployer.git
-PUBLISH 3000 AS 80 /deploy
+AUTODEPLOY git@github.com:yhat/deployer.git
+PUBLISH 3000 AS 80
+
