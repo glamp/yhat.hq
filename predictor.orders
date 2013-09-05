@@ -1,2 +1,0 @@
-AUTODEPLOY https://github.com/yhat/predictor.git
-RUN predict /predictor /predictor/src/predictors/user_models/python/EchoModel/bundle.json
