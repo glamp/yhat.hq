@@ -1,2 +1,2 @@
-AUTODEPLOY https://github.com/yhat/enterprise-admin.git
-PUBLISH 3000 AS 80 /
+AUTODEPLOY git@github.com:yhat/enterprise-admin
+PUBLISH 3000 AS 80 /hq
