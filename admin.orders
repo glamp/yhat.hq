@@ -1,2 +1,2 @@
-AUTODEPLOY git@github.com:yhat/enterprise-admin
+AUTODEPLOY git@github.com:yhat/enterprise-admin.git
 PUBLISH 3000 AS 5555
